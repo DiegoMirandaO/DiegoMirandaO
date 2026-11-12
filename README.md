@@ -2,7 +2,7 @@
 
 ### Principal AI & Software Engineer | Software Architecture | GenAI & LLM Systems
 
-I'm a software engineer with **approximately 10 years of experience** building, scaling, and architecting software products.
+I'm a software engineer with ** 7+ years of experience** building, scaling, and architecting software products.
 
 My recent focus has been on **AI engineering, LLM applications, agent architectures, and production-grade AI systems**. I enjoy working at the intersection of software engineering and applied AI, turning complex ideas and prototypes into reliable, scalable products.
 
